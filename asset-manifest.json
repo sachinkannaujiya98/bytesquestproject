@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sachinkannaujiya98.github.io/bytesquestproject/static/css/main.e3ad9403.css",
-    "main.js": "/sachinkannaujiya98.github.io/bytesquestproject/static/js/main.0ff6ce0f.js",
-    "index.html": "/sachinkannaujiya98.github.io/bytesquestproject/index.html",
-    "main.e3ad9403.css.map": "/sachinkannaujiya98.github.io/bytesquestproject/static/css/main.e3ad9403.css.map",
-    "main.0ff6ce0f.js.map": "/sachinkannaujiya98.github.io/bytesquestproject/static/js/main.0ff6ce0f.js.map"
+    "main.css": "/bytesquestproject/static/css/main.e3ad9403.css",
+    "main.js": "/bytesquestproject/static/js/main.0ff6ce0f.js",
+    "index.html": "/bytesquestproject/index.html",
+    "main.e3ad9403.css.map": "/bytesquestproject/static/css/main.e3ad9403.css.map",
+    "main.0ff6ce0f.js.map": "/bytesquestproject/static/js/main.0ff6ce0f.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ad9403.css",
