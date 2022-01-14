@@ -1,0 +1,52 @@
+.sub_bg {
+  background-color: rgb(22, 247, 255) !important;
+  padding-left: 50px !important;
+}
+.search input {
+  border-radius: 10px !important;
+  border-style: none;
+  outline: none;
+  width: 80% !important;
+  height: 35px;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.search button {
+  position: relative !important;
+  left: -13%;
+
+  /* height: 35px !important ;   */
+  /* margin-top: 30px;
+  margin-right: 40px; */
+  outline: none;
+  border-style: none;
+  height: 28px;
+  width: 80px;
+  border-radius: 10px;
+  background-color: blueviolet;
+  color: aliceblue;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 480px) {
+  .search button {
+    bottom: 33px;
+    left: 55%;
+    height: 30px;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .search button {
+    bottom: 50px;
+    left: 50%;
+    height: 30px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .search button {
+    bottom: 30px;
+    left: 55%;
+    height: 30px;
+  }
+}
